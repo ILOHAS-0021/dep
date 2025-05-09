@@ -27,4 +27,4 @@ spec:
     spec:
       containers:
       - name: con-spring
-        image: ilohas21/spring:9
+        image: ilohas21/spring:10
